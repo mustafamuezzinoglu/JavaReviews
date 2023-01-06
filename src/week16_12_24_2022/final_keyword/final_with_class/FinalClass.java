@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class FinalClass {
     public static void main(String[] args) {
-        
+
 //    String Class // is Final
 //    Arrays  // is not Final
 //     Array // is Final
